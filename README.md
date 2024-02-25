@@ -61,14 +61,6 @@ diff/compare.bat
 
 Output:
 
-```diff
---- a/diff/document_old.txt
-+++ b/diff/document_new.txt
-@@ -1,4 +1,4 @@
-This is [-an-]{+a revised+} example document.
-It contains some text.
-This text [-might-]{+may+} change in [-the future.-]{+future revisions.+}
-Please review it carefully.
-```
+![Compare Output](extra/diff.png)
 
 > Made with ❤️ by Ignema
